@@ -12,7 +12,6 @@ from collections import deque
 def solve_maze(maze, start, end):
     # TODO: Use BFS (or DFS) to find the path from start to end
     # Return a list of coordinates representing the path, or an empty list if no path exists
-    pass
 
 # Example maze: 0s are open paths, 1s are walls
 maze = [
