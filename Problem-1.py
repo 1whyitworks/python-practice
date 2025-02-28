@@ -6,6 +6,7 @@
 
 def sum_two_numbers(a, b):
     # TODO: Return the sum of a and b
+    return a + b
     pass
 
 # Test
