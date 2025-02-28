@@ -6,7 +6,7 @@
 
 def reverse_string(s):
     # TODO: Return the reversed version of string s
-    pass
+    return s[::-1]
 
 # Test
-print(reverse_string("hello"))  # Expected output: "olleh"
+print(reverse_string("Hello"))  # Expected output: "olleh"
