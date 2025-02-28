@@ -8,7 +8,6 @@
 
 def solve_sudoku(board):
     # TODO: Implement the backtracking algorithm to solve the Sudoku
-    pass
 
 # Example board (0 represents empty cells)
 sudoku_board = [
