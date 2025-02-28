@@ -9,7 +9,6 @@ import re
 
 def is_palindrome(s):
     # TODO: Clean the string and check if it is a palindrome
-    pass
 
 # Test
 print(is_palindrome("A man, a plan, a canal: Panama"))  # Expected output: True
