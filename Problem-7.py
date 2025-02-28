@@ -7,7 +7,6 @@
 
 def list_overlap(list1, list2):
     # TODO: Return the list of common elements between list1 and list2
-    pass
 
 # Test
 print(list_overlap([1, 2, 3, 4], [3, 4, 5, 6]))  # Expected output: [3, 4]
