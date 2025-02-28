@@ -6,7 +6,6 @@
 
 def fibonacci_sequence(n):
     # TODO: Return a list with the first n Fibonacci numbers
-    pass
 
 # Test
 print(fibonacci_sequence(7))  # Expected output: [0, 1, 1, 2, 3, 5, 8]
