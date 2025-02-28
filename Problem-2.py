@@ -6,6 +6,11 @@
 
 def check_even_or_odd(n):
     # TODO: Return "Even" if n is even, otherwise "Odd"
+    result = n % 2
+    if result == 0:
+        return "Even"
+    else: 
+        return "Odd"
     pass
 
 # Test
