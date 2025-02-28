@@ -7,7 +7,6 @@
 
 def factorial(n):
     # TODO: Return the factorial of n
-    pass
 
 # Test
 print(factorial(5))  # Expected output: 120
