@@ -7,6 +7,10 @@
 
 def factorial(n):
     # TODO: Return the factorial of n
+    result = 1
+    for i in range(1, n + 1):
+        result = i * result
+    return result
 
 # Test
 print(factorial(5))  # Expected output: 120
