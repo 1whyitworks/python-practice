@@ -11,7 +11,6 @@ def check_even_or_odd(n):
         return "Even"
     else: 
         return "Odd"
-    pass
 
 # Test
 print(check_even_or_odd(4))  # Expected output: "Even"
