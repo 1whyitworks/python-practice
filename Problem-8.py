@@ -6,7 +6,6 @@
 
 def count_vowels(s):
     # TODO: Return the count of vowels in the string s
-    pass
 
 # Test
 print(count_vowels("hello world"))  # Expected output: 3
