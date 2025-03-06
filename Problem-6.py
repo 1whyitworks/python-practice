@@ -9,6 +9,7 @@ import re
 
 def is_palindrome(s):
     # TODO: Clean the string and check if it is a palindrome
-
+    s = re.sub('[^A-Za-z0-9]', '', s).lower()
+    return s == s[::-1]
 # Test
 print(is_palindrome("A man, a plan, a canal: Panama"))  # Expected output: True
